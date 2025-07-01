@@ -1,3 +1,10 @@
+
+
+https://github.com/user-attachments/assets/4da81138-1e7e-4420-8e40-9abc6828a159
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
