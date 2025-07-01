@@ -2,7 +2,25 @@
 
 https://github.com/user-attachments/assets/4da81138-1e7e-4420-8e40-9abc6828a159
 
+# Tic Tac Toe Game
 
+A simple Tic Tac Toe game implemented in [specify your language here, e.g.,Java]. This project allows two players to play a classic game of Tic Tac Toe in the terminal/console/GUI (please specify).
+
+## Features
+
+- Two-player mode
+- Clear game board display
+- Win/draw detection
+- Easy-to-understand logic
+- [Add more features if you have them]
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sathirapramudith123/Tic-Tac-Toe-Game-.git
+```
 
 
 ## Getting Started
